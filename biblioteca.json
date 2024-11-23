@@ -1,0 +1,79 @@
+[
+    {
+        "codigo": "100101",
+        "materia": "Literatura",
+        "nombre": "Cien años de soledad",
+        "numPaginas": 471,
+        "autor": "Gabriel García Márquez"
+    },
+    {
+        "codigo": "100102",
+        "materia": "Literatura",
+        "nombre": "Don Quijote de la Mancha",
+        "numPaginas": 863,
+        "autor": "Miguel de Cervantes"
+    },
+    {
+        "codigo": "100103",
+        "materia": "Literatura",
+        "nombre": "Crimen y castigo",
+        "numPaginas": 671,
+        "autor": "Fiódor Dostoyevski"
+    },
+    {
+        "codigo": "100104",
+        "materia": "Literatura Clásica",
+        "nombre": "La Odisea",
+        "numPaginas": 324,
+        "autor": "Homero"
+    },
+    {
+        "codigo": "100105",
+        "materia": "Literatura",
+        "nombre": "Orgullo y prejuicio",
+        "numPaginas": 432,
+        "autor": "Jane Austen"
+    },
+    {
+        "codigo": "100106",
+        "materia": "Ciencia Ficción",
+        "nombre": "1984",
+        "numPaginas": 328,
+        "autor": "George Orwell"
+    },
+    {
+        "codigo": "100107",
+        "materia": "Ciencia",
+        "nombre": "La teoría del todo",
+        "numPaginas": 176,
+        "autor": "Stephen Hawking"
+    },
+    {
+        "codigo": "100108",
+        "materia": "Biología",
+        "nombre": "El origen de las especies",
+        "numPaginas": 502,
+        "autor": "Charles Darwin"
+    },
+    {
+        "codigo": "100109",
+        "materia": "Historia",
+        "nombre": "Sapiens: De animales a dioses",
+        "numPaginas": 496,
+        "autor": "Yuval Noah Harari"
+    },
+    {
+        "codigo": "100110",
+        "materia": "Literatura",
+        "nombre": "Los hermanos Karamazov",
+        "numPaginas": 824,
+        "autor": "Fiódor Dostoyevski"
+    },
+    {
+        "codigo": "100111",
+        "materia": "Literatura",
+        "nombre": "La Abadia de Northanger",
+        "numPaginas": 251,
+        "autor": "Jane Austen"
+    }
+]

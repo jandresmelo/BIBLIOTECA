@@ -1,0 +1,7 @@
+# Ignorar la carpeta EDUCATIVO (nivel superior)
+../EDUCATIVO/
+
+# Ignorar todo dentro de la carpeta EDUCATIVO
+../EDUCATIVO/**
+
+token.txt
